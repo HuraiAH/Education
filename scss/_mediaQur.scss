@@ -1,5 +1,8 @@
 //header  section
 @media screen and (min-width:200px) and (max-width:600px){
+    .overlay_text{
+        top: 35% !important;
+    }
     .header-top-right{
         display: block;
         margin-left: 20px;
@@ -17,7 +20,7 @@
 }
 
 //MAIN NAVBAR SECTION
-@media screen and (min-width: 400px ) and (max-width: 1000px){
+@media screen and (min-width: 200px ) and (max-width: 1000px){
     .navbar-nav{
         display: flex;
         margin-left: 7rem;
